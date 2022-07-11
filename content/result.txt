@@ -1,1 +1,0 @@
-The result is: Hello  world ,hello this is second txt file

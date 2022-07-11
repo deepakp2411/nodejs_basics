@@ -1,2 +1,0 @@
-Hello  world i am  first module from the readFile , writeFile 
-I am in this journey where I can leave from the Inside
